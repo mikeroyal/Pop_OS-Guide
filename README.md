@@ -374,7 +374,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 
 ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Pop!_OS-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Pop_OS-Guide/pulls).
 
 
 ## License
