@@ -266,7 +266,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) is an application that gives you access to virtual machines, running locally or remotely. It also allows you to connect to the display of a remote computer.
 
  <img src="https://user-images.githubusercontent.com/45159366/107092256-1cd07900-67b8-11eb-9ae9-f389045dad26.png">
- <img src="https://user-images.githubusercontent.com/45159366/107092261-1e01a600-67b8-11eb-98de-3d4769ab3998.png">
+ <img src="https://user-images.githubusercontent.com/45159366/107093639-72a62080-67ba-11eb-8d88-477929a5516b.png">
  
  [OpenCore for Windows 10](https://dortania.github.io/OpenCore-Install-Guide/)
  
@@ -314,7 +314,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 
 [WinTile: Windows 10 window tiling for GNOME](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/)  is a hotkey driven window tiling system for GNOME that imitates the standard Win-Arrow keys of Windows 10, allowing you to maximize, maximize to sides, or 1/4 sized to corner across a single or multiple monitors using just Super+Arrow.
 
-[Gnome Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)is a GNOME Shell extension that syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+[Gnome Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) is a GNOME Shell extension that syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
 [Tray Icons: Reloaded](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/) is a GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
 
