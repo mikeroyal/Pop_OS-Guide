@@ -219,3 +219,55 @@ this is needed to avoid adobeair error
 sudo sed -i 's|echo "\${arg%%=\*}"=\\""${arg### \*=}"\\"|echo \${arg%%=\*}=\\"\${arg### \*=}\\"|g' /usr/local/bin/winetricks
 sudo apt install cabextract libncurses5:armhf
 ```
+# Setting up a MacOS workspace
+
+[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+
+**REQUIREMENTS**
+
+   - A modern Linux distribution
+   - QEMU > 2.11.1
+   - A CPU with Intel VT-x / AMD SVM support is required
+   - A CPU with SSE4.1 support is required for >= macOS Sierra
+   - A CPU with AVX2 support is required for >= macOS Mojave
+   - Internet access for the installation process
+
+
+```sh
+Open the terminal and run: 
+sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
+```
+
+[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+ <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
+
+[OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
+
+ <img src="https://user-images.githubusercontent.com/45159366/107092246-15a96b00-67b8-11eb-91fb-27494c7f1d4f.jpg">
+ 
+# Setting up a Windows 10 workspace
+
+ [Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+ 
+**REQUIREMENTS**
+
+   - A modern Linux distribution
+   - QEMU > 2.11.1
+   - A CPU with Intel VT-x / AMD SVM support is required
+   - [WindowsGuestDrivers/Download Drivers - KVM](https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers)
+   - Internet access for the installation process
+
+
+```sh
+Open the terminal and run: 
+sudo apt install qemu uml-utilities virt-manager gnome-boxes
+```
+
+[GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) is an application that gives you access to virtual machines, running locally or remotely. It also allows you to connect to the display of a remote computer.
+
+ <img src="https://user-images.githubusercontent.com/45159366/107092256-1cd07900-67b8-11eb-9ae9-f389045dad26.png">
+ <img src="https://user-images.githubusercontent.com/45159366/107092261-1e01a600-67b8-11eb-98de-3d4769ab3998.png">
+ 
+ [OpenCore for Windows 10](https://dortania.github.io/OpenCore-Install-Guide/)
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/107092270-222dc380-67b8-11eb-82cc-d41e9e8a39e0.png">
