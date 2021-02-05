@@ -14,9 +14,9 @@
 
 3. [Gaming](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#gaming)
 
-4. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#setting-up-macos-workspace)
+4. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#setting-up-windows-10-workspace)
+5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
 6. [GNOME Extensions](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#gnome-extensions)
 
