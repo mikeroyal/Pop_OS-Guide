@@ -8,19 +8,19 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#getting-started)
+1. [Getting Started](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-started)
 
-2. [Getting Software](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#getting-software)
+2. [Getting Software](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-software)
 
-3. [Gaming](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#gaming)
+3. [Gaming](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gaming)
 
-4. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace)
+4. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-6. [GNOME Extensions](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#gnome-extensions)
+6. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions)
 
-7. [Advanced Topics](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#advanced-topics)
+7. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics)
 
 
 # Getting Started
@@ -57,7 +57,7 @@ sudo ufw status //checks status of firewall
 ```
 # Getting Software
 
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 ## Pop Shop
 
@@ -150,7 +150,7 @@ sudo ufw status //checks status of firewall
 
 # Gaming
 
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 ## Game Streaming
 
@@ -221,7 +221,7 @@ sudo apt install cabextract libncurses5:armhf
 ```
 # Setting up a MacOS workspace
 
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **REQUIREMENTS**
 
@@ -247,7 +247,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
  
 # Setting up a Windows 10 workspace
 
- [Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+ [Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
  
 **REQUIREMENTS**
 
@@ -274,7 +274,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 
 # GNOME Extensions
 
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **Note: GNOME Extenions allow you customize your Desktop layout anyway you want.**
 
@@ -322,7 +322,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 
 # Advanced Topics
 
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/) that also work with Pop!_OS.**
 
@@ -373,12 +373,11 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 [How To Host a Website Using Cloudflare and Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-20-04)
 
 ## Contribute
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
 
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Pop!_OS-Guide/pulls).
 
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/Pop!_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
