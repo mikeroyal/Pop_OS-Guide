@@ -36,8 +36,6 @@
 [Pop!_OS GitHub](https://github.com/pop-os)
 
 [Pop!_OS reddit](https://www.reddit.com/r/pop_os/)
-
-  <img src="">
  
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107091581-e0e8e400-67b6-11eb-8357-51bf416bfb1d.png">
