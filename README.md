@@ -37,8 +37,30 @@
 
 [Pop!_OS reddit](https://www.reddit.com/r/pop_os/)
 
-
+  <img src="">
+ 
+<h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107091581-e0e8e400-67b6-11eb-8357-51bf416bfb1d.png">
+  <br />
+  Pop!_OS Desktop
+</h1>
+ 
+
+## Installing KDE Plasma on Pop!_OS
+
+```sh
+sudo apt install kde-plasma-desktop
+```
+OR
+
+```sh
+sudo apt install kde-standard
+```
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107159031-84b2cb00-6942-11eb-9b70-6a2f7e52e481.png">
+  <br />
+  KDE Plasma Desktop on Pop!_OS
+</h1>
 
 
 ## GNOME Tweaks
@@ -129,7 +151,11 @@ sudo ufw status //checks status of firewall
  <img src="https://user-images.githubusercontent.com/45159366/106686365-055a7b80-657f-11eb-9b58-1de28abe2e5b.png">
  
  ## Snaps
-
+ 
+```sh 
+sudo apt install snapd
+sudo apt install 'your app'
+```
 [Snap Store](https://snapcraft.io/store) is a build and distribution service for Snap applications.
 
 [Snapcraft Forum](https://forum.snapcraft.io/)
@@ -195,6 +221,13 @@ sudo ufw status //checks status of firewall
 ```sh
 wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
 ```
+[Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+
+## Enable Proton in Steam
+
+ - Click on “Steam” then “Settings” to open the Settings window at the far-left corner.
+ - On the “Settings” window, click on “Steam Play.” Ensure you check the “Enable Steam Play for supported files” and “Enable Steam Play for   all other titles” checkboxes. Lastly, select the Proton version you wish to use from the drop-down menu.
+
  <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
 
 ## Lutris
