@@ -6,8 +6,6 @@
 
 #### A guide on setting up your Pop!_OS Desktop with all the essential Applications, Tools, and Games to make your experience with Pop!_OS great!
 
-**View/Download this guide as a PDF: [Pop!_OS Guide.pdf](https://github.com/mikeroyal/Pop_OS-Guide/files/5940740/Pop._OS.Guide.pdf)**
-
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-started)
