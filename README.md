@@ -72,7 +72,7 @@ sudo apt install gnome-tweak-tool //let's you customize your desktop layout.
 
 ```sh
 Open the terminal and run: 
-sudo ufw enable  //enables ubuntu firewall
+sudo ufw enable  //enables firewall
 sudo ufw status //checks status of firewall
 ```
 # Getting Software
@@ -292,7 +292,7 @@ Open the terminal and run:
 sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
