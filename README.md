@@ -6,6 +6,8 @@
 
 #### A guide on setting up your Pop!_OS Desktop with all the essential Applications, Tools, and Games to make your experience with Pop!_OS great!
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-started)
