@@ -115,7 +115,7 @@ sudo ufw status //checks status of firewall
 
 [Spotify](https://www.spotify.com/us/download/linux/)
 
-[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple that runs in Safari, Google Chrome and Mozilla Firefox.
+[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple Music that runs in Safari, Google Chrome and Mozilla Firefox.
 
 [Discord](https://discord.com/download)
 
