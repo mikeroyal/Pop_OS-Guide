@@ -105,7 +105,7 @@ sudo ufw status //checks status of firewall
 
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) is a fully encrypted, 100% open source video conferencing solution.
 
-[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based veriosn of Cisco Webex video conferencing solution.
+[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based version of Cisco Webex video conferencing solution.
 
 [Slack](https://slack.com/downloads/linux)
 
@@ -113,13 +113,13 @@ sudo ufw status //checks status of firewall
 
 [Skype](https://www.skype.com/en/get-skype/)
 
-[Spotify](https://www.spotify.com/us/download/linux/)
-
-[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple Music that runs in Safari, Google Chrome and Mozilla Firefox.
-
 [Discord](https://discord.com/download)
 
 [TeamViewer](https://www.teamviewer.com/en/download/linux/)
+
+[Spotify](https://www.spotify.com/us/download/linux/)
+
+[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple Music that runs in Safari, Google Chrome and Mozilla Firefox.
 
 [Adobe Lighroom Online photo editor](https://lightroom.adobe.com) is an online web version of Adobe Photoshop Lightroom. Adobe account required to sign-in to app.
 
