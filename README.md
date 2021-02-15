@@ -103,17 +103,31 @@ sudo ufw status //checks status of firewall
 
 [Zoom](https://zoom.us/download?os=linux)
 
+[Jitsi Meet](https://jitsi.org/jitsi-meet/) is a fully encrypted, 100% open source video conferencing solution.
+
+[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based veriosn of Cisco Webex video conferencing solution.
+
 [Slack](https://slack.com/downloads/linux)
 
-[Trello](https://trello.com/platforms)
+[Trello Web App](https://trello.com/platforms)
 
 [Skype](https://www.skype.com/en/get-skype/)
 
 [Spotify](https://www.spotify.com/us/download/linux/)
 
+[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple that runs in Safari, Google Chrome and Mozilla Firefox.
+
 [Discord](https://discord.com/download)
 
 [TeamViewer](https://www.teamviewer.com/en/download/linux/)
+
+[Adobe Lighroom Online photo editor](https://lightroom.adobe.com) is an online web version of Adobe Photoshop Lightroom. Adobe account required to sign-in to app.
+
+[Adobe Spark(Web)](https://spark.adobe.com) is an applications let you make cool Social Graphics, Short Videos, and Web Pages. Adobe account required to sign-in to app.
+
+[Photopea](https://www.photopea.com/) is an advanced online image editor supporting PSD, XCF, Sketch, XD and CDR formats. (Adobe Photoshop, GIMP, Sketch App, Adobe XD, CorelDRAW).
+
+[Master PDF Editor](https://code-industry.net/masterpdfeditor/) is straightforward, easy to use application for working with PDF documents equipped with powerful multi-purpose functionality. With Master PDF Editor you can easily view, create and modify PDF documents. 
 
 [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) is an ideal utility for running a single virtual machine on a Windows or Linux PC. Organizations use Workstation Player to deliver managed corporate desktops, while students and educators use it for learning and training.
 
