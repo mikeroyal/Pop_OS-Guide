@@ -37,7 +37,7 @@
 
 [Differences between Pop!_OS and Ubuntu](https://support.system76.com/articles/difference-between-pop-ubuntu/)
 
-[System76 Support (Ask question/submit ticket)](https://support.system76.com/)
+[System76 Support (Ask a question/submit a ticket)](https://support.system76.com/)
 
 [Pop!_OS GitHub](https://github.com/pop-os)
 
