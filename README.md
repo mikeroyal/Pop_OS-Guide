@@ -174,10 +174,8 @@ sudo ufw status //checks status of firewall
  
  ## Snaps
  
-```sh 
-sudo apt install snapd
-sudo apt install 'your app'
-```
+[Installing snap on Pop!_OS](https://snapcraft.io/docs/installing-snap-on-pop) 
+ 
 [Snap Store](https://snapcraft.io/store) is a build and distribution service for Snap applications.
 
 [Snapcraft Forum](https://forum.snapcraft.io/)
