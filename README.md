@@ -99,7 +99,7 @@ sudo ufw status //checks status of firewall
 
 [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
-[Microsoft 365 with Office apps](https://www.microsoft.com/en-us/microsoft-365?legRedir=default&CorrelationId=335c4ab6-175d-4c4f-888d-15cfd03e4d32)
+[Microsoft 365 with Office apps(formerly Office Online)](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
 
 [Google Workspace (formerly G Suite)](https://workspace.google.com/)
 
