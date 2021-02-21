@@ -20,7 +20,7 @@
 
 5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-6. [Using Android and Android Apps](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-android-apps)
+6. [Using Android and Android Apps](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-and-android-apps)
 
 7. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning)
 
