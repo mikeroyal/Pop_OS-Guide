@@ -20,11 +20,13 @@
 
 5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-6. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning)
+6. [Using Android and Android Apps](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-android-apps)
 
-7. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions)
+7. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning)
 
-8. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics)
+8. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions)
+
+9. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics)
 
 
 # Getting Started
@@ -366,6 +368,62 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
  [OpenCore for Windows 10](https://dortania.github.io/OpenCore-Install-Guide/)
  
  <img src="https://user-images.githubusercontent.com/45159366/107092270-222dc380-67b8-11eb-82cc-d41e9e8a39e0.png">
+ 
+## Using Android and Android Apps
+
+[Android Studio](https://developer.android.com/studio/) is the development suite for Google's Android Operating System(OS). It's built on [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) software and designed specifically for Android development. It is available for download on Windows, macOS and Linux.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637349-29530380-743f-11eb-8c61-549064b7d80b.png">
+</p>
+
+[Android Virtual Device (AVD)](https://developer.android.com/studio/run/managing-avds) is a configuration in [Android Studio](https://developer.android.com/studio/intro) that defines the characteristics of an Android phone, tablet, Wear OS, Android TV, or Automotive OS device that you want to simulate in the Android Emulator. The [Android Emulator](https://developer.android.com/studio/run/emulator) simulates Android devices on your computer so that you can test your application on a variety of devices and Android API levels without needing to have each physical device.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637365-2c4df400-743f-11eb-8265-c07faab3523f.png">
+</p>
+
+[ARChon](https://archon-runtime.github.io) is a runtime for Chrome that let's the user to run Android Apps in Chrome in OS X, Linux and Windows.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637374-2d7f2100-743f-11eb-9e40-50f3d5434c85.png">
+</p>
+
+[Anbox](https://anbox.io/) is an application that provides a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu, Debian Fedora, and openSUSE.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637384-34a62f00-743f-11eb-9edc-83267a673b38.png">
+</p>
+
+[Anbox Cloud](https://anbox-cloud.io/) is the mobile cloud computing platform delivered by Canonical. Run Android in the cloud, at high scale and on any type of hardware.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637387-35d75c00-743f-11eb-9a5c-bfcb00463eba.png">
+</p>
+
+[Genymotion](https://www.genymotion.com/) is a very fast Android emulator. The program itself is based on VirtualBox and is known for its effectively fast speed and is usefulness for running Android apps on a Windows, Mac and Linux desktop.
+
+**Desktop**
+
+Local virtual devices with high performances.
+
+ - Emulate a wide range of virtual device configurations (Android versions, screen size, hardware capacities, etc.)
+ - Simulate multiple scenarios thanks to our full set of hardware sensors (GPS, network, multitouch, etc.)
+ - Cross-platform: Windows, Mac and Linux
+ - Manipulate easily with ADB
+ - $412 per year for employees in a company (BUSINESS). All features, advanced support.
+ - $136 per year for freelancers (INDIE). All features, best effort support.
+ - [Free](https://www.genymotion.com/download/) for personal use only (learning & entertainment). Limited features, no support.
+ 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637388-37a11f80-743f-11eb-9f37-6e22e1172f2d.png">
+</p>
+
+[Scrcpy](https://github.com/Genymobile/scrcpy) is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/108637389-396ae300-743f-11eb-971a-f5b554033552.jpg">
+</p>
  
 # Machine Learning
 
