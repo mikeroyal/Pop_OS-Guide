@@ -316,7 +316,7 @@ this is needed to avoid adobeair error
 sudo sed -i 's|echo "\${arg%%=\*}"=\\""${arg### \*=}"\\"|echo \${arg%%=\*}=\\"\${arg### \*=}\\"|g' /usr/local/bin/winetricks
 sudo apt install cabextract libncurses5:armhf
 ```
-# Setting up a MacOS workspace
+# Setting up a macOS workspace
 
 [Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
@@ -385,10 +385,10 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 <img src="https://user-images.githubusercontent.com/45159366/108637365-2c4df400-743f-11eb-8265-c07faab3523f.png">
 </p>
 
-[ARChon](https://archon-runtime.github.io) is a runtime for Chrome that let's the user to run Android Apps in Chrome in OS X, Linux and Windows.
+[LineageOS](https://lineageos.org/) is a free and open-source operating system for various devices, based on the Android mobile platform.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/108637374-2d7f2100-743f-11eb-9e40-50f3d5434c85.png">
+<img src="https://user-images.githubusercontent.com/45159366/108647222-f0ca1e80-746c-11eb-8e55-0e9808bb24fc.png">
 </p>
 
 [Anbox](https://anbox.io/) is an application that provides a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu, Debian Fedora, and openSUSE.
