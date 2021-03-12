@@ -16,29 +16,35 @@
 
 3. [Gaming](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gaming)
 
-4. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace)
+4. [Game Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#game-development)
 
-5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+5. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
+6. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#professional-audio--video-editing)
+7. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
 
-8. [Kubernetes](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#kubernetes)
+8. [Professional Audio/Video Editing](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#professional-audio--video-editing)
 
-9. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning)
+9. [Kubernetes](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#kubernetes)
 
-10. [Robotics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#robotics)
+10. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning)
 
-11. [Open Source Security](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#open-source-security)
+11. [Robotics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#robotics)
 
-12. [DevOps](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#devops)
+12. [Open Source Security](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#open-source-security)
 
-13. [Flutter Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#flutter-development)
+13. [Differential Privacy](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#differential-privacy)
 
-14. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions)
+14. [Cloud Native Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#cloud-native-development)
 
-15. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics)
+15. [DevOps](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#devops)
+
+16. [Flutter Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#flutter-development)
+
+17. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions)
+
+18. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics)
 
 
 # Getting Started
@@ -344,6 +350,137 @@ this is needed to avoid adobeair error
 sudo sed -i 's|echo "\${arg%%=\*}"=\\""${arg### \*=}"\\"|echo \${arg%%=\*}=\\"\${arg### \*=}\\"|g' /usr/local/bin/winetricks
 sudo apt install cabextract libncurses5:armhf
 ```
+# Game Development
+
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
+  <br />
+</h1>
+
+
+## Game Engines
+
+[Unity](https://unity.com) is a cross-platform game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.
+
+[Unity Hub](https://unity3d.com/get-unity/download)
+
+<img src="https://user-images.githubusercontent.com/45159366/104788113-3432be00-5746-11eb-99b1-49360669f327.png">
+
+
+[Unreal Engine 4](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
+
+[Linux Game Development on Unreal Engine 4](https://docs.unrealengine.com/en-US/SharingAndReleasing/Linux/BeginnerLinuxDeveloper/SettingUpAnUnrealWorkflow/index.html)
+
+<img src="https://user-images.githubusercontent.com/45159366/104788122-37c64500-5746-11eb-8f61-48a69b94582d.png">
+
+
+[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile (Android, iOS) and web-based (HTML5) platforms.
+
+[If you would like to Donate to the Godot Project](https://www.patreon.com/godotengine)
+
+<img src="https://user-images.githubusercontent.com/45159366/104788134-3f85e980-5746-11eb-94c4-d97165ee888b.jpeg">
+
+
+[Blender](https://www.blender.org) is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+
+[If you would like to Donate to the Blender Project](https://fund.blender.org/)
+
+<img src="https://user-images.githubusercontent.com/45159366/110991190-27d37780-8329-11eb-97b4-e3f204065779.png">
+
+
+[Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
+
+<img src="https://user-images.githubusercontent.com/45159366/110880414-70405600-8293-11eb-9c86-bb373017653a.png">
+
+
+[GameMaker Studio 2](https://www.yoyogames.com/gamemaker) is the latest and greatest incarnation of GameMaker. It has everything you need to take your idea from concept to finished game. With no barriers to entry and powerful functionality, GameMaker Studio 2 is the ultimate 2D development environment.
+
+[Setting Up GameMaker Studio For Ubuntu](https://help.yoyogames.com/hc/en-us/articles/235186168-Setting-Up-For-Ubuntu)
+
+<img src="https://user-images.githubusercontent.com/45159366/104788147-44e33400-5746-11eb-879a-bc6239c98ce4.jpg">
+
+
+## Tools
+
+[Panda3D](https://www.panda3d.org/) is a game engine, a framework for 3D rendering and game development for Python and C++ programs, developed by Disney and CMU. Panda3D is open-source and free for any purpose, including commercial ventures.
+
+[Source 2](https://developer.valvesoftware.com/wiki/Source_2) is a 3D video game engine in development by Valve as a successor to Source. It is used in Dota 2, Artifact, Dota Underlords, parts of The Lab, SteamVR Home, and Half-Life: Alyx.
+
+[Open Graphics Library(OpenGL)](https://www.opengl.org/) is an API used acrossed mulitple  programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the [Khronos Group](https://www.khronos.org/).
+
+[Open Computing Language (OpenCL)](https://www.khronos.org/opencl/) is an open standard for [parallel programming](https://www.coursera.org/lecture/parprog1/introduction-to-parallel-computing-zNrIS) of heterogeneous platforms consisting of CPUs, GPUs, and other hardware accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms.
+
+[OpenGL Shading Language(GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) is a High Level Shading Language based on the C-style language, so it covers most of the features a user would expect with such a language.  Such as control structures (for-loops, if-else statements, etc) exist in GLSL, including the switch statement.
+
+[High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline. 
+
+[Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium. 
+
+[MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+[MoltenGL](https://moltengl.com) is an implementation of the OpenGL ES 2.0 API that runs on Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+[NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
+
+[HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
+
+[Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL. 
+
+[Superpowers](http://superpowers-html5.com/) is a downloadable HTML5 app for real-time collaborative projects . You can use it solo like a regular offline game maker, or setup a password and let friends join in on your project through their Web browser. 
+
+## Augmented Reality (AR) & Virtual Reality (VR)
+
+[SteamVR for Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/110880418-71718300-8293-11eb-986e-1b1f8cb49112.png">
+<br />
+SteamVR Home
+</p>
+
+[OpenVR](https://github.com/ValveSoftware/openvr) is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
+
+[OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. 
+
+[OpenHMD](http://www.openhmd.net/) is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.
+
+[openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices. 
+
+[Monado](https://monado.dev/) is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
+
+[Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
+
+[Simula](https://github.com/SimulaVR/Simula) is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156)).
+
+
+## Game Development Learning Resources
+
+[Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
+
+[Unreal Engine Authorized Training Program](https://www.unrealengine.com/en-US/training-partners)
+
+[Unreal Engine for education](https://www.unrealengine.com/en-US/education/)
+
+[Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
+
+[Unity Certifications](https://unity.com/products/unity-certifications)
+
+[Getting Started with Vulkan](https://www.khronos.org/vulkan/)
+
+[Game Design Online Courses from Udemy](https://www.udemy.com/courses/Design/Game-Design/)
+
+[Game Design Online Courses from Skillshare](https://www.skillshare.com/browse/game-design)
+
+[Learn Game Design with Online Courses and Classes from edX](https://www.edx.org/learn/game-design)
+
+[Game Design Courses from Coursera](https://www.coursera.org/courses?query=game%20design)
+
+[Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
+
+
+
 # Setting up a macOS workspace
 
 [Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
@@ -489,6 +626,8 @@ Local virtual devices with high performances.
 [Shotcut](https://www.shotcut.org/) is an open source multi-platform video editor. You can perform various actions such as video editing (including 4K video quality), add effects, create new movies, import most image files formats, export to almost any file format and much more.
 
 [Olive](https://www.olivevideoeditor.org) is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+
+[Natron](https://natrongithub.github.io/) is a powerful Digital Compositor that can handle all of your 2D/2.5D needs. Its robust OIIO file formats and OpenFX architecture is what make Natron the most flexible open source compositor for the visual effects community. Its interface and functionally are the same across all platforms such as MacOS, Linux and Windows.
 
 [OBS (Open Broadcaster Software)](https://obsproject.com/) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
@@ -993,6 +1132,257 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Security Training Certifications and Courses from Coursera](https://www.coursera.org/search?query=security&)
 
 [Security Certifications Training from Pluarlsight](https://www.pluralsight.com/browse/information-cyber-security/security-certifications)
+
+# Differential Privacy
+
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/103486336-fd59c100-4db1-11eb-9780-a0b90bd5db1f.png">
+</h1>
+
+[Differential Privacy](https://www.microsoft.com/en-us/ai/ai-lab-differential-privacy) is a system that simultaneously enables researchers and analysts to extract useful insights from datasets containing personal information and offers stronger privacy protections. This is achieved by introducing "statistical noise".
+
+[Statistical Noise](https://news.microsoft.com/on-the-issues/2020/08/27/statistical-noise-data-differential-privacy/) is a process that small aletrations to masked datasets. The statistical noise hides identifiable characteristics of individuals, ensuring that the privacy of personal information is protected, but it's small enough to not materially impact the accuracy of the answers extracted by analysts and researchers.
+
+[Laplacian Noise](https://en.wikipedia.org/wiki/Laplace_distribution) is a mechanism that adds Laplacian-distributed noise to a function.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/103486337-ff238480-4db1-11eb-9895-f7f49cc5715a.png">
+<br />
+Above is a simple diagram of how Differential Privacy-Preserving Data Sharing and Data Mining protects a User's Data
+</p>
+
+## Tools
+
+[PySyft](https://github.com/OpenMined/PySyft) is a Python library for secure and private Deep Learning. PySyft decouples private data from model training, using [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html), [Differential Privacy](https://www.microsoft.com/en-us/ai/ai-lab-differential-privacy), and Encrypted Computation (like [Multi-Party Computation (MPC)](https://multiparty.org) and [Homomorphic Encryption (HE)](https://www.microsoft.com/en-us/research/project/homomorphic-encryption/) within the main Deep Learning frameworks like [PyTorch](https://pytorch.org/) and [TensorFlow](https://www.tensorflow.org/).
+
+[TensorFlow Privacy](https://github.com/tensorflow/privacy) is a  Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy. The library comes with tutorials and analysis tools for computing the privacy guarantees provided.
+
+[TensorFlow Federated (TFF)](https://github.com/tensorflow/federated) is an open-source framework for machine learning and other computations on decentralized data. TFF has been developed to facilitate open research and experimentation with [Federated Learning (FL)](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html), an approach to machine learning where a shared global model is trained across many participating clients that keep their training data locally. 
+
+[Privacy on Beam](https://github.com/google/differential-privacy/tree/main/privacy-on-beam) is an end-to-end differential privacy solution built on [Apache Beam](https://beam.apache.org/documentation/). It is intended to be usable by all developers, regardless of their differential privacy expertise.
+
+[PyDP](https://github.com/OpenMined/PyDP) is a Python wrapper for Google's Differential Privacy project.
+
+[PennyLane](https://pennylane.ai) is a cross-platform Python library for [differentiable programming](https://en.wikipedia.org/wiki/Differentiable_programming) of quantum computers. By training a quantum computer the same way as a neural network.
+
+[BoTorch](https://botorch.org) is a library for Bayesian Optimization built on PyTorch.
+
+[PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) is a geometric deep learning extension library for [PyTorch](https://pytorch.org/).
+
+[Skorch](https://github.com/skorch-dev/skorch) is a scikit-learn compatible neural network library that wraps PyTorch.
+
+[Diffprivlib](https://github.com/IBM/differential-privacy-library) is the IBM Differential Privacy Library for experimenting with, investigating and developing applications in, differential privacy.
+
+[Opacus](https://opacus.ai/) is a library that enables training PyTorch models with differential privacy. It supports training with minimal code changes required on the client, has little impact on training performance and allows the client to online track the privacy budget expended at any given moment.
+
+[Smart Noise](https://github.com/opendifferentialprivacy/smartnoise-sdk) is a toolkit that uses state-of-the-art differential privacy (DP) techniques to inject noise into data, to prevent disclosure of sensitive information and manage exposure risk.
+
+
+## Privacy Learning Resources 
+
+[Differential Privacy Blog Series by the National Institute of Standards and Technology(NIST)](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog)
+
+[Apple's Differential Privacy Overview](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf)
+
+[Learning with Privacy at Scale with Apple Machine Learning](https://machinelearning.apple.com/research/learning-with-privacy-at-scale)
+
+[Microsoft Research Differential Privacy Overview](https://www.microsoft.com/en-us/research/publication/differential-privacy/)
+
+[Responsible Machine Learning with Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/responsibleml/)
+
+[Responsible AI Resources with Microsoft AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
+
+[Preserve data privacy by using differential privacy and the SmartNoise package](https://docs.microsoft.com/en-us/azure/machine-learning/concept-differential-privacy)
+
+[Open Differential Privacy(OpenDP) Initiative by Microsoft and Harvard](https://projects.iq.harvard.edu/opendp)
+
+[Google's Differential Privacy Library](https://github.com/google/differential-privacy)
+
+[Computing Private Statistics with Privacy on Beam from Google Codelabs](https://codelabs.developers.google.com/codelabs/privacy-on-beam/#0)
+
+[Introducing TensorFlow Privacy: Learning with Differential Privacy for Training Data](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html)
+
+[TensorFlow Federated: Machine Learning on Decentralized Data](https://www.tensorflow.org/federated/)
+
+[Federated Analytics: Collaborative Data Science without Data Collection](https://ai.googleblog.com/2020/05/federated-analytics-collaborative-data.html)
+
+[Differentially-Private Stochastic Gradient Descent(DP-SGD)](https://github.com/tensorflow/privacy/blob/master/tutorials/walkthrough/README.md)
+
+[Learning Differential Privacy from Harvard University Privacy Tools Project](https://privacytools.seas.harvard.edu/differential-privacy)
+
+[Harvard University Privacy Tools Project Courses & Educational Materials](https://privacytools.seas.harvard.edu/courses-educational-materials)
+
+[The Weaknesses of Differential Privacy course on Coursera](https://www.coursera.org/lecture/data-results/weaknesses-of-differential-privacy-50Y9k)
+
+[The Differential Privacy of Bayesian Inference](https://privacytools.seas.harvard.edu/publications/differential-privacy-bayesian-inference)
+
+[Simultaneous private learning of multiple concepts](https://privacytools.seas.harvard.edu/publications/simultaneous-private-learning-multiple-concepts)
+
+[The Complexity of Computing the Optimal Composition of Differential Privacy](https://privacytools.seas.harvard.edu/publications/complexity-computing-optimal-composition-differential-privacy)
+
+[Order revealing encryption and the hardness of private learning](https://privacytools.seas.harvard.edu/publications/order-revealing-encryption-and-hardness-private-learning)
+
+[SAP HANA data anonymization using SAP Software Solutions](https://www.sap.com/cmp/dg/crm-xt17-ddm-data-anony/index.html)
+
+[SAP HANA Security using their In-Memory Database](https://www.sap.com/products/hana/features/security.html)
+
+[DEFCON Differential Privacy Training Launch](https://opensource.googleblog.com/2020/08/defcon-differential-privacy-training.html)
+
+[Secure and Private AI course on Udacity](https://www.udacity.com/course/secure-and-private-ai--ud185)
+
+[Differential Privacy - Security and Privacy for Big Data - Part 1 course on Coursera](https://www.coursera.org/learn/security-privacy-big-data)
+
+[Differential Privacy - Security and Privacy for Big Data - Part 2 course on Coursera](https://www.coursera.org/learn/security-privacy-big-data-protection)
+
+[Certified Ethical Emerging Technologist Professional Certificate course on Coursera](https://www.coursera.org/professional-certificates/certified-ethical-emerging-technologist)
+
+
+# Cloud Native Development
+
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/90199045-6a7ba400-dd88-11ea-96d6-81b90d370946.png">
+</p>
+
+## Cloud Native Learning Resources
+
+[CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
+[Build Cloud-Native applications in Microsoft Azure](https://azure.microsoft.com/en-us/overview/cloudnative/)
+
+[Cloud-Native application development for Google Cloud](https://cloud.google.com/solutions/cloud-native-app-development?hl=he)
+
+[Cloud-Native development for Amazon Web Services](https://aws.amazon.com/blogs/apn/journey-to-being-cloud-native-how-and-where-should-you-start/)
+
+[Cloud Native Applications with VMware Tanzu](https://tanzu.vmware.com/cloud-native)
+
+[Cloud Native Computing Foundation Training and Certification Program](https://www.cncf.io/certification/training/)
+
+[Cloud Foundry Developer Training and Certification Program](https://www.cloudfoundry.org/get-started/)
+
+[Cloud-Native Architecture Course on Pluralsight](https://www.pluralsight.com/courses/cloud-native-architecture-big-picture)
+
+[AWS Fundamentals: Going Cloud-Native on Coursera](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+
+[Developing Cloud-Native Apps w/ Microservices Architectures course on Udemy](https://www.udemy.com/course/developing-cloud-native-applications-microservices-architectures/)
+
+[How load balancing works for cloud native applications with Azure Application Gateway on Linkedin Learning](https://www.linkedin.com/learning/azure-for-developers-optimize-with-azure-application-gateway/how-load-balancing-works-for-cloud-native-applications)
+
+[Developing Cloud Native Applications course on edX](https://www.edx.org/course/developing-cloud-native-applications)
+
+[Cloud Native courses from IBM](https://www.ibm.com/cloud/learn/cloud-native)
+
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110991307-55202580-8329-11eb-9de4-31aba0a2daff.png">
+  <br />
+  Cloud Native Architecture
+</h1>
+
+## DevOps
+
+**Application Framework**
+
+[Spring Boot](https://spring.io/projects/spring-boot) is an open-source micro framework maintained by Pivotal, which was acquired by VMware in 2019. It provides Java developers with a platform to get started with an auto configurable production-grade Spring application.
+
+[Apache Mesos](http://mesos.apache.org/) is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.
+
+[Apache Spark](https://spark.apache.org/) is a unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine learning and graph processing.
+
+[Apache Hadoop](http://hadoop.apache.org/) is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
+
+**Runtime Platform**
+
+[BOSH](https://www.cloudfoundry.org/bosh/) is a tool that prepares your infrastructure for what needs to be managed. BOSH espouses software engineering best practices, such as continuous delivery, by making it easy to create software releases that automatically update complex distributed systems with simple commands.Due to the flexibility and power of BOSH, Google and VMware made it the heart of the Kubo project, now called the Cloud Foundry Container Runtime, based on Kubernetes.
+
+**Infrastructure Automatation**
+
+[Maven](https://maven.apache.org/) is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation.
+
+[Gradle](https://gradle.org/) is an open-source build-automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy-based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.
+
+[Chef](https://www.chef.io/) is an effortless Infrastructure Suite offers visibility into security and compliance status across all infrastructure and makes it easy to detect and correct issues long before they reach production.
+
+[Puppet](https://puppet.com/) is an open source tool that makes continuous integration and delivery of your software on traditional or containerized infrastructure easy by pulling together all your existing tools and giving you flexibility to deploy your way. 
+
+[Ansible](https://www.ansible.com/) is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows.
+
+[Salt](https://www.saltstack.com/) is Python-based, open-source software for event-driven IT automation, remote task execution, and configuration management. Supporting the "Infrastructure as Code" approach to data center system and network deployment and management, configuration automation, SecOps orchestration, vulnerability remediation, and hybrid cloud control. 
+
+[Terraform](https://www.terraform.io/) is an open-source infrastructure as code software tool created by HashiCorp.It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL), or optionally JSON.
+
+**Cloud Infrastructure**
+
+[Amazon web service(AWS)](https://aws.amazon.com) is a platform that offers flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions. The AWS platform is developed with a combination of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
+
+[Microsoft Azure](https://azure.microsoft.com/en-us/) is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
+
+[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) is a set of services for teams to share code, track work, and ship software; CLIs Build, deploy, diagnose, and manage multi-platform, scalable apps and services; Azure Pipelines Continuously build, test, and deploy to any platform and cloud; Azure Lab Services Set up labs for classrooms, trials, development and testing, and other scenarios.
+
+[Azure Draft](https://draft.sh/) is a tool for developers to create cloud-native applications on Kubernetes. 
+
+[Google Cloud Platform](https://cloud.google.com/) integrates industry-leading tools(data management, hybrid & multi-cloud, and AI & ML) with Cloud Storage for enhanced support with everything from security and data transfer, to data backup and archive. Expand all . Backup, archival, and disaster recovery. Along with File systems and gateways.
+
+[OpenStack](https://www.openstack.org/) is a free and open-source software platform for cloud computing, mostly deployed as infrastructure-as-a-service that controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API. OpenStack works with popular enterprise and open source technologies making it ideal for heterogeneous infrastructure.
+
+[Cloud Foundry](https://www.cloudfoundry.org/) is an open source, multi cloud application platform as a service that makes it faster and easier to build, test, deploy and scale applications, providing a choice of clouds, developer frameworks, and application services. It is an open source project and is available through a variety of private cloud distributions and public cloud instances. 
+
+
+## Continuous Integration/Continuous Delivery
+
+[Bamboo](https://www.atlassian.com/software/bamboo) is a continuous integration (CI) server that can be used to automate the release management for a software application, creating a continuous delivery pipeline.
+
+[Drone](https://drone.io/) is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+
+[Travis CI](https://travis-ci.org/) is a hosted continuous integration service used to build and test software projects hosted at GitHub.
+
+[Circle CI](https://circleci.com/) is a continuous integration and continuous delivery platform that helps software teams work smarter, faster.
+
+[Team City](https://www.jetbrains.com/teamcity/) is a build management and continuous integration server from JetBrains.
+
+[Shippable](https://www.shippable.com/) simplifies DevOps and makes it systematic with an Assembly Line platform that is heterogeneous, flexible, and provides complete visibility across your DevOps workflows. 
+
+[Spinnaker](https://www.spinnaker.io/) is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+
+[Prow](https://jenkins-x.io/docs/reference/components/prow/) is a Kubernetes based CI/CD system. Jobs can be triggered by various types of events and report their status to many different services. In addition to job execution, Prow provides GitHub automation in the form of policy enforcement, chat-ops via /foo style commands, and automatic PR merging. Prow has a microservice architecture implemented as a collection of container images that run as Kubernetes deployments.
+
+## Microservices
+
+[AWS ECS](https://aws.amazon.com/ecs/) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. Amazon ECS eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines, or schedule containers on those virtual machines.
+
+[AWS CodeBuild](https://aws.amazon.com/codebuild/) is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don't need to provision, manage, and scale your own build servers.
+
+[CFEngine](https://cfengine.com/) is an open-source configuration management system, written by Mark Burgess.Its primary function is to provide automated configuration and maintenance of large-scale computer systems, including the unified management of servers, desktops, consumer and industrial devices, embedded networked devices, mobile smartphones, and tablet computers.
+
+[Octpus Deploy](https://octopus.com/) is the deployment automation server for your entire team, designed to make it easy to orchestrate releases and deploy applications, whether on-premises or in the cloud.
+
+[AWS CodeDeploy](https://aws.amazon.com/codedeploy/) is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications.
+
+[AWS Lambda](https://aws.amazon.com/lambda/) is an event-driven, serverless computing platform provided by Amazon as a part of the Amazon Web Services. It is a computing service that runs code in response to events and automatically manages the computing resources required by that code.
+
+[Traefik](https://traefik.io/traefik/) is an open-source Edge Router that makes publishing your services a fun and easy experience. It receives requests on behalf of your system and finds out which components are responsible for handling them. What sets Traefik apart, besides its many features, is that it automatically discovers the right configuration for your services.
+
+## Containers
+
+[Kubernetes](https://kubernetes.io/) is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation.
+
+[Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/) is a managed, production-ready environment for deploying containerized applications.
+
+[OpenShift](https://www.openshift.com/) is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.
+
+[Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
+
+[Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating-system kernel and are thus more lightweight than virtual machines.
+
+[Rook](https://rook.io/) is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
+
+[Podman(the POD MANager)](https://github.com/containers/podman) is a tool for managing [OCI](https://opencontainers.org/) containers and pods.
+
+[Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards. 
+
 
 # DevOps
 
