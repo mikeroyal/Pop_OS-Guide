@@ -38,7 +38,7 @@
 
 14. [Cloud Native Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#cloud-native-development)
 
-15. [DevOps](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#devops)
+15. [DevOps Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#devops-development)
 
 16. [Flutter Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#flutter-development)
 
@@ -1384,7 +1384,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 [Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards. 
 
 
-# DevOps
+# DevOps Development
 
 [Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
