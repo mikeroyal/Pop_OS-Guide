@@ -55,7 +55,7 @@
 
 [Pop!_OS](https://pop.system76.com/) is an operating system(based on [Ubuntu](https://ubuntu.com/)) for STEM and creative professionals who use their computer as a tool to discover and create developed by [System76](https://system76.com/).
 
-[Pop!_OS COSMIC (Computer Operating System Main Interface Components)](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions) is a custom desktop environment developed by System 76 the makers of Pop!_OS. This makes navigating your desktop workflow via your mouse, keyboard, and/or trackpad much simpler and more efficient. 
+[Pop!_OS COSMIC (Computer Operating System Main Interface Components)](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions) is a custom desktop environment developed by [System76](https://system76.com/). This makes navigating your desktop workflow via your mouse, keyboard, and/or trackpad much simpler and more efficient. 
 
 [Popsicle](https://github.com/pop-os/popsicle) is a Linux utility for flashing multiple USB devices in parallel, written in Rust.
 
