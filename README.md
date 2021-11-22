@@ -70,7 +70,7 @@
 [Pop!_OS reddit](https://www.reddit.com/r/pop_os/)
  
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107091581-e0e8e400-67b6-11eb-8357-51bf416bfb1d.png">
+ <img src="https://user-images.githubusercontent.com/45159366/142935333-7cc708ee-cadf-4700-bfa4-fecdd29baaa4.png">
   <br />
   Pop!_OS Desktop
 </h1>
