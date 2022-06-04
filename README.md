@@ -20,6 +20,15 @@
 2. [Getting Software](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gaming)
+     - [Steam](https://github.com/mikeroyal/Pop_OS-Guide#steam)
+     - [ProtonDB](https://github.com/mikeroyal/Pop_OS-Guide#protondb)
+     - [Lutris](https://github.com/mikeroyal/Pop_OS-Guide#lutris)
+     - [GameHub](https://github.com/mikeroyal/Pop_OS-Guide#gamehub)
+     - [Epic Games Store](https://github.com/mikeroyal/Pop_OS-Guide#epic-games-store)
+     - [Game Streaming](https://github.com/mikeroyal/Pop_OS-Guide#game-streaming)
+     - [Game Emulators](https://github.com/mikeroyal/Pop_OS-Guide#game-emulators)
+     - [Graphics Performance](https://github.com/mikeroyal/Pop_OS-Guide#graphics-performance)
+     - [Performance Benchmarks](https://github.com/mikeroyal/Pop_OS-Guide#performance-benchmarks)
 
 4. [Game Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#game-development)
 
@@ -62,41 +71,41 @@
 
 [Pop!_OS COSMIC (Computer Operating System Main Interface Components)](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions) is a custom desktop environment developed by [System76](https://system76.com/). This makes navigating your desktop workflow via your mouse, keyboard, and/or trackpad much simpler and more efficient. 
 
+- [Differences between Pop!_OS and Ubuntu](https://support.system76.com/articles/difference-between-pop-ubuntu/)
+
+- [System76 Support (Ask a question/submit a ticket)](https://support.system76.com/)
+
+- [System76 Laptops](https://system76.com/laptops)
+
+- [System76 Desktops](https://system76.com/desktops)
+
+- [HP Dev One laptop with Pop!_OS](https://hpdevone.com/)
+
+- [Pop!_OS GitHub](https://github.com/pop-os)
+
+- [Pop!_OS reddit](https://www.reddit.com/r/pop_os/)
+
 [Popsicle](https://github.com/pop-os/popsicle) is a Linux utility for flashing multiple USB devices in parallel, written in Rust.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/172025606-a1b6638d-34b0-44a0-ae3f-97cd70446521.png">
+  <br />
+  Popsicle UI
+</p>
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
 
-[Differences between Pop!_OS and Ubuntu](https://support.system76.com/articles/difference-between-pop-ubuntu/)
-
-[System76 Support (Ask a question/submit a ticket)](https://support.system76.com/)
-
-[Pop!_OS GitHub](https://github.com/pop-os)
-
-[Pop!_OS reddit](https://www.reddit.com/r/pop_os/)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350348-e43ea5a2-2346-4b0b-acc0-fc3352c3d820.png">
+  <br />
+  Etcher UI
+</p>
  
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142935333-7cc708ee-cadf-4700-bfa4-fecdd29baaa4.png">
   <br />
   Pop!_OS Desktop
 </h1>
- 
-
-## Installing KDE Plasma on Pop!_OS
-
-```sh
-sudo apt install kde-plasma-desktop
-```
-OR
-
-```sh
-sudo apt install kde-standard
-```
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107159031-84b2cb00-6942-11eb-9b70-6a2f7e52e481.png">
-  <br />
-  KDE Plasma Desktop on Pop!_OS
-</h1>
-
 
 ## GNOME Tweaks
 
@@ -125,42 +134,6 @@ sudo ufw status //checks status of firewall
 **Note 2: For new users not comfortable with using the command-line or need software not available in the Pop!_Shop checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
 ## Essential Apps(depending on your workflow)
-
-[Google Chrome browser](https://www.google.com/chrome/)
-
-[Microsoft Edge browser](https://www.microsoftedgeinsider.com/en-us/download/?platform=linux)
-
-[Visual Studio Code](https://code.visualstudio.com/Download) or [VSCodium](https://vscodium.com)
-
-[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
-
-[Microsoft 365 with Office apps(formerly Office Online)](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
-
-[Google Workspace (formerly G Suite)](https://workspace.google.com/)
-
-[Zoom](https://zoom.us/download?os=linux)
-
-[iCloud on Pop!_OS](https://snapcraft.io/install/icloud-for-linux/ubuntu)
-
-[pCloud](https://www.pcloud.com/) is the secure cloud storage(like GoogleDrive), where you can store, share and work on all your files. You can access them on any device, anywhere you go.
-
-[Jitsi Meet](https://jitsi.org/jitsi-meet/) is a fully encrypted, 100% open source video conferencing solution.
-
-[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based version of Cisco Webex video conferencing solution.
-
-[Slack](https://slack.com/downloads/linux)
-
-[Trello Web App](https://trello.com/platforms)
-
-[Skype](https://www.skype.com/en/get-skype/)
-
-[Discord](https://discord.com/download)
-
-[TeamViewer](https://www.teamviewer.com/en/download/linux/)
-
-[Spotify](https://www.spotify.com/us/download/linux/)
-
-[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple Music that runs in Safari, Google Chrome and Mozilla Firefox.
 
 [Adobe Lighroom Online photo editor](https://lightroom.adobe.com) is an online web version of Adobe Photoshop Lightroom. Adobe account required to sign-in to app.
 
@@ -191,7 +164,6 @@ sudo ufw status //checks status of firewall
 [Stacer](https://github.com/oguzhaninan/Stacer) is an open source system optimizer and application monitor that helps users to manage their entire system. Also available as an AppImage.
 
 [Nativefier](https://github.com/nativefier/nativefier) is a command-line tool to easily create a desktop app for any web site with minimal configuration. Apps are wrapped by [Electron](https://www.electronjs.org/) (which uses Chromium under the hood) in an OS executable (.app, .exe, etc) for use on Windows, macOS and Linux.
-
 
 ## App Outlet
 
@@ -235,22 +207,20 @@ sudo ufw status //checks status of firewall
 
 ## Steam
 
-[Get Steam](https://store.steampowered.com/about/)
-
-**Or**
-
 [Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam) available in the Pop!_Shop.
 
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
-## Enable Proton in Steam
+### Enable Proton in Steam
 
  - Click on “Steam” then “Settings” to open the Settings window at the far-left corner.
  - On the “Settings” window, click on “Steam Play.” Ensure you check the “Enable Steam Play for supported files” and “Enable Steam Play for   all other titles” checkboxes. Lastly, select the Proton version you wish to use from the drop-down menu.
 
  <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
 
+ 
 ## ProtonDB
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
 
 [ProtonDB](https://www.protondb.com) is a collection of over 100,000 gaming reports from other gamers as they test games with Proton on Linux and provide aggregate scores of how well games perform. A growing pool of suggestions provides tweaks that you can try to get games working while Proton continues development. In addition to this, you may explore the Steam game catalog on this site to browse and discover a wide range of titles that were previously unavailable for use on Linux.
 
@@ -262,15 +232,19 @@ sudo ufw status //checks status of firewall
 <img src="https://user-images.githubusercontent.com/45159366/108773214-dd718e80-7512-11eb-983b-ce192e5b30f2.png">
 </p>
 
+[ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
+
 ## Lutris
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
 
 [Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Uplay and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
 [Add Epic Games Store](https://lutris.net/games/epic-games-store/)
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
- 
- ## GameHub
+
+## GameHub
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
 
 [GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 
@@ -294,38 +268,116 @@ sudo ufw status //checks status of firewall
    - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
    - [itch.io](https://itch.io/)
 
-## Game Streaming
+## Epic Games Store
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
 
-[Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) use the **Chromebook version** to play all your games in Google Chrome or any Chromium-based web browser such as Brave, Vivaldi, and Microsoft Edge. Also, available as a Electron Desktop App in the [Snap store Geforce NOW](https://snapcraft.io/geforcenow).
+[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
+
+[Epic Games Store](https://www.epicgames.com/store/) is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111918016-3fed7a00-8a40-11eb-964e-930c801c1c72.png">
+</p>
+
+## Game Streaming
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
+
+[Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
+
  <img src="https://user-images.githubusercontent.com/45159366/106686391-0f7c7a00-657f-11eb-9d0b-1ebb4d385883.jpeg">
 
-[Moonlight Game Streaming](https://moonlight-stream.org/) is a program that let you stream from your PC games over the Internet with no configuration required. Stream from almost any device, whether you're in another room or miles away from your gaming rig. 
+[Moonlight Game Streaming](https://moonlight-stream.org/) is a program that let you stream from your PC games over the Internet with no configuration required. Stream from almost any device, whether you're in another room or miles away from your gaming rig.
+
 <img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
 
-[Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.
+[Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms. [Chiaki Flatpak](https://flathub.org/apps/details/re.chiaki.Chiaki)
 
-[Xbox Project xCloud](https://www.xbox.com/en-US/xbox-game-streaming/project-xcloud) is Microsoft's cloud-based Xbox game-streaming technology **(currently in Beta)**. **Play games like Forza Horizon 4, Halo 5: Guardians, Gears of War 4, Sea of Thieves, Cuphead, Red Dead Redemption 2, and 100+ other games on your mobile device or Chrome web browser**. Microsoft's Xbox Project xCloud does require an [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) subscription.
+[Xbox Cloud Gaming](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) is Microsoft's cloud-based Xbox game-streaming technology **(currently in Beta)**. **Play games like Forza Horizon 4, Halo 5: Guardians, Gears of War 4, Sea of Thieves, Cuphead, Red Dead Redemption 2, and 100+ other games on your mobile device or Chrome web browser**. Xbox Cloud Gaming does require an [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) subscription.
 
 <img src="https://user-images.githubusercontent.com/45159366/108111388-74d56e00-7049-11eb-8aeb-3e5d65f9e832.png">
 
+[Stadia](https://stadia.google.com/games) is Google's gaming platform that lets you instantly play your favorite video games on screens you already own. Game on TVs with Chromecast with Google TV, laptops, desktops, tablets or compatible phones. [Stadia Pro](https://stadia.google.com/) is a subscription($9.99 per month) that unlocks a growing collection of free games to play on Stadia. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/162089471-3eb27f98-2366-4117-9af5-93bb126a2c37.png">
+</p>
+
+[Parsec](https://parsec.app/cloud-gaming) is a video game streaming platform, which offers a wide variety of games and genres to choose from and provides a high-quality and smooth gameplay. SParsec is developed in order to provide a high-quality smooth gameplay, same time to be free of all ads and in-game purchases.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/166166858-e70ca081-8931-46f3-9dc3-fe9c719d76f8.png">
+</p>
+
+[Amazon Luna](https://www.amazon.com/luna/landing-page) is Amazon's Cloud Gaming Service. Amazon Luna is Compatible/Supported on a vartiey of [Devices and Browsers](https://www.amazon.com/gp/help/customer/display.html?nodeId=GUFHUSX8X324T4XE).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/112693072-364b8400-8e3d-11eb-9df0-d58af7ac9c9c.png">
+</p>
+
 ## Game Emulators
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
 
-[RetroArch](https://www.retroarch.com/) is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all. 
+[EmulationStation Desktop Edition (ES-DE)](https://www.es-de.org/) is a frontend application for browsing and launching games from your multi-platform game collection. It's  available for Unix/Linux, macOS(M1 & Intel) and Windows.
 
-[Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more.
+[RetroPie](https://retropie.org.uk/) is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, [EmulationStation](https://github.com/Aloshi/EmulationStation), RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.
 
-[Citra](https://citra-emu.org/) is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/153087555-e1bde100-6079-4089-a33d-804e29064789.png">
+<br />
+</p>
 
-[yuzu](https://yuzu-emu.org) is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+[RetroArch](https://www.retroarch.com/) is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all. [RetroArch Flatpak](https://flathub.org/apps/details/org.libretro.RetroArch)
+
+[Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more. [Dolphin Flatpak](https://flathub.org/apps/details/org.DolphinEmu.dolphin-emu)
+
+[Citra](https://citra-emu.org/) is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games. [Citra Flatpak](https://flathub.org/apps/details/org.citra_emu.citra)
+
+[yuzu](https://yuzu-emu.org) is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.[Yuzu Flatpak](https://flathub.org/apps/details/org.yuzu_emu.yuzu)
+
+[m64p](https://m64p.github.io/) is a Nintendo 64 Emulator. It uses mupen64plus-gui, a brand new mupen64plus frontend written in Qt5. It supports all of the things you’d expect from a frontend (savestate management, pausing, screenshots). [m64p Flatpak](https://flathub.org/apps/details/io.github.m64p.m64p)
+
+[DeSmuME](https://desmume.org/) is a Nintendo DS emulator. [DeSmuME Flatpak](https://flathub.org/apps/details/org.desmume.DeSmuME)
+
+[Snes9x](https://www.snes9x.com/) is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. [Snes9x Flatpak](https://flathub.org/apps/details/com.snes9x.Snes9x) 
+
+[bsnes](https://github.com/bsnes-emu/bsnes) is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use. [bsnes flatpak](https://flathub.org/apps/details/dev.bsnes.bsnes)
+
+[mGBA](https://mgba.io/) is a new emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. [mGBA Flatpak](https://flathub.org/apps/details/io.mgba.mGBA)
 
 [DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
+
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode. [DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
+
+[Flycast](https://github.com/flyinghead/flycast) is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
+
+[PCSX2](https://pcsx2.net/) is a PlayStation 2 'emulator', a free program that tries to replicate the PlayStation 2 console to enable you to play PS2 games on your PC. [PCSX2 Flatpak](https://flathub.org/apps/details/net.pcsx2.PCSX2)
+
+[RPCS3](https://rpcs3.net/) is an experimental open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows and Linux. RPCS3 started development in May of 2011 by its founders DH and Hykem. The emulator is currently capable of running over 1800 commercial titles powered by Vulkan and OpenGL. [RPCS3 Flatpak](https://flathub.org/apps/details/net.rpcs3.RPCS3)
 
 [MAME](https://www.mamedev.org/) is a Arcade Machine Emulator.
 
 [xemu](https://xemu.app/) is an original Xbox emulator.
- 
+
+[Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator.
+
+**Also checkout these subreddits for more great Game Emulators recommendations**
+  
+   - [r/emulation](https://www.reddit.com/r/emulation/)
+   - [r/emulations](https://www.reddit.com/r/emulators/)
+   - [r/RetroArch](https://www.reddit.com/r/RetroArch/)
+   - [r/RetroPie](https://www.reddit.com/r/RetroPie/)
+   - [r/DolphinEmulator](https://www.reddit.com/r/DolphinEmulator/)
+   - [r/Citra](https://www.reddit.com/r/Citra/)
+   - [r/cemu](https://www.reddit.com/r/cemu/)
+   - [r/yuzu](https://www.reddit.com/r/yuzu/)
+   - [r/OpenEmu](https://www.reddit.com/r/OpenEmu/)
+   - [r/MAME](https://www.reddit.com/r/MAME/)
+   - [r/EmuDev](https://www.reddit.com/r/EmuDev/)
+   - [r/Roms](https://www.reddit.com/r/Roms/)
+  
 ## Graphics Performance
- 
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
+
 [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available in the Pop Shop as a Flatpak.
  <img src="https://user-images.githubusercontent.com/45159366/107091994-89974380-67b7-11eb-85ed-eedec7e3dfbf.png">
  
@@ -337,8 +389,8 @@ sudo ufw status //checks status of firewall
 ```
 <img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
 
-
 ## Performance Benchmarks
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide#table-of-contents)
 
 [Geekbench 5](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
 
@@ -561,10 +613,10 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 <img src="https://user-images.githubusercontent.com/45159366/108637365-2c4df400-743f-11eb-8265-c07faab3523f.png">
 </p>
 
-[LineageOS](https://lineageos.org/) is a free and open-source operating system for various devices, based on the Android mobile platform.
+[Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. The Android runtime environment ships with a minimal customized Android system image based on LineageOS. The image is currently based on Android 10.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/108647222-f0ca1e80-746c-11eb-8e55-0e9808bb24fc.png">
+<img src="https://user-images.githubusercontent.com/45159366/171924198-0d440de1-9ff7-4e37-b6c3-f7e42c266530.png">
 </p>
 
 [Anbox](https://anbox.io/) is an application that provides a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu, Debian Fedora, and openSUSE.
@@ -610,7 +662,6 @@ Local virtual devices with high performances.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108773208-dba7cb00-7512-11eb-8fd0-2d009dbfc729.png">
 </p>
-
 
 [H.264(AVC)](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC) is a video compression standard based on block-oriented and motion-compensated integer-DCT coding that defines multiple profiles (tools) and levels (max bitrates and resolutions) with support up to 8K.
 
