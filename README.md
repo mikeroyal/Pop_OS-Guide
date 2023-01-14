@@ -109,6 +109,12 @@
   Pop!_OS Desktop
 </h1>
 
+## Toolkits for COSMIC Desktop
+
+ * [Iced](https://iced.rs/) is a cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm. It features Simple, easy-to-use, batteries-included API Type-safe, reactive programming model Cross-platform support (Windows, macOS, Linux, and the Web) Responsive layout Built-in widgets (including text inputs, scrollables, and more.)
+
+ * [Slint](https://slint-ui.com/) is a fast and easy UI Toolkit Benefits Fluid Create smooth, touch-friendly user interfaces Cross-Platform Target embedded devices and desktop applications Multi-Language Intuitive API in your favorite programming language (C++, Rust, JavaScript) Rapid Design Iterate quickly with Live-Preview Mission.
+
 ## GNOME Tweaks
 
 ```sh
