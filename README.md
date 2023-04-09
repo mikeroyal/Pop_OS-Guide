@@ -724,7 +724,7 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 ## Performance Benchmarks
 [Back to the Top](#table-of-contents)
 
-[Geekbench 5](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
+[Geekbench 6](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
 
 [Phoronix Test Suite](https://www.phoronix-test-suite.com/)
 
